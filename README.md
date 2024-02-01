@@ -13,13 +13,17 @@ This is a simple To-Do app built using Flutter with sqflite. The app allows user
 ## Screenshots
 
 - New tasks:
-![to do app1](https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/d70fb920-27df-4096-8cba-a704c96c8263)
+  
+<img src="https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/d70fb920-27df-4096-8cba-a704c96c8263" width="400">
 
 - Done tasks:
-![to do app2](https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/436e35a1-3fae-46a4-84b9-fc3313fd5ba9)
+  
+<img src="https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/436e35a1-3fae-46a4-84b9-fc3313fd5ba9" width="400">
 
-- Archived tasks
-![to do app3](https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/c857dad1-c54a-4c74-8872-4ffb051abe87)
+- Archived tasks:
+  
+<img src="https://github.com/ahmedsaad123456/TO-DO-App/assets/102562587/c857dad1-c54a-4c74-8872-4ffb051abe87" width="400">
+
 
 
 
